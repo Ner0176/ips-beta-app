@@ -1,0 +1,76 @@
+{
+    "translation": {
+        "app": {
+            "profile": "Perfil",
+            "info": "Información",
+            "map": "Mapa",
+            "searcher": "Buscador",
+            "fav": "Favoritos"
+        },
+        "user": {
+            "title": "Perfil",
+            "auth": {
+                "info-title": "Información",
+                "info": "Para usar la funcionalidad de favoritos es necesario iniciar sesión. Si aún no tienes una cuenta creada, regístrate con uno de tus correos y selecciona una contraseña segura. Si no deseas usar esta funcionalidad, no será necesario que inicies sesión.",
+                "signIn": "Iniciar sesión",
+                "register": "Registrar",
+                "signOut": "Cerrar sesión",
+                "title": "Autenticación"
+            },
+            "languages": {
+                "title": "Idiomas",
+                "catalan": "Catalán",
+                "spanish": "Castellano"
+            }
+        },
+        "map": {
+            "instruction": "Sigue {{distance}} metros hacia el ",
+            "north": "norte",
+            "northe": "noreste",
+            "northw": "noroeste",
+            "east": "este",
+            "west": "oeste",
+            "south": "sur",
+            "southe": "sureste",
+            "southw": "suroeste",
+            "finished": "¡Ha llegado a su destino!" 
+        },
+        "searcher": {
+            "placeholder": "Como llegar a..."
+        },
+        "information": {
+            "title": "Información del mapa",
+            "cardTitle": "Dormitorio Norte",
+            "cardButton": "Volver"
+        },
+        "favourite": {
+            "title": "Zonas favoritas"
+        },
+        "signInError": {
+            "title": "No disponible",
+            "description": "Para poder utilizar esta funcionalidad es necesario que inicies sesión",
+            "accept": "Iniciar sesión",
+            "cancel": "Cancelar"
+        },
+        "authErrors": {
+            "emailError": "Introduce una dirección de correo válida",
+            "passwordNotStrong":  "La contraseña tiene que tener como mínimo una mayúscula, una minúscula, un carácter especial (_, @, -, etc.) y tiene que tener 6 o más letras",
+            "passwordNotEqual": "Les contraseñas no son iguales"
+        },
+        "apiErrors": {
+            "emailAlreadyExists": {
+                "title": "Correo existente",
+                "description": "Este correo ya existe. Por favor, utiliza otro correo o intenta iniciar sesión con él"
+            },
+            "emailNotFound": {
+                "title": "Correo inexistente",
+                "description": "No existe ningún usuario con este correo"
+            },
+            "invalidPassword": {
+                "title": "Contraseña incorrecta",
+                "description": "La contraseña es incorrecta, inténtalo de nuevo."
+            } 
+        }
+        
+    }
+}

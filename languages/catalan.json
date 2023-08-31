@@ -1,0 +1,75 @@
+{
+    "translation": {
+        "app": {
+            "profile": "Perfil",
+            "info": "Informació",
+            "map": "Mapa",
+            "searcher": "Cercador",
+            "fav": "Preferits"
+        },
+        "user": {
+            "title": "Perfil",
+            "auth": {
+                "info-title": "Informació",
+                "info": "Per usar la funcionalitat de preferits és necessari iniciar sessió. Si encara no tens un compte, registra't amb un dels teus correus electrònics i selecciona una contrasenya segura. Si no desitges fer servir aquesta funcionalitat, no serà necessari que iniciïs sessió.",        
+                "signIn": "Iniciar sessió",
+                "register": "Registrar",
+                "signOut": "Tancar sessió",
+                "title": "Autenticació"
+            },
+            "languages": {
+                "title": "Idiomes",
+                "catalan": "Català",
+                "spanish": "Castellà"
+            }
+        },
+        "map": {
+            "instruction": "Segueix {{distance}} metres cap ",
+            "north": "al nord",
+            "northe": "al nord-est",
+            "northw": "al nord-oest",
+            "east": "a l'est",
+            "west": "a l'oest",
+            "south": "al sud",
+            "southe": "al sud-est",
+            "southw": "al sud-oest",
+            "finished": "Ha arribat al seu destí!" 
+        },
+        "searcher": {
+            "placeholder": "Com arribar a..."
+        },
+        "information": {
+            "title": "Informació del mapa",
+            "cardButton": "Tornar"
+        },
+        "favourite": {
+            "title": "Zones preferides"
+        },
+        "signInError": {
+            "title": "No disponible",
+            "description": "Per poder fer servir aquesta funcionalitat és necessari inicar sessió",
+            "accept": "Iniciar sessió",
+            "cancel": "Cancelar"
+        },
+        "authErrors": {
+            "emailError": "Introdueix un adreça de correu vàlida",
+            "passwordNotStrong":  "La contrasenya ha de tenir com a mínim una majúscula, una minúscula, un caràcter especial (_, @, -, etc.) i ha de tenir 6 o més lletres",
+            "passwordNotEqual": "Les contrasenyes no són iguals"
+        },
+        "apiErrors": {
+            "emailAlreadyExists": {
+                "title": "Correu existent",
+                "description": "Aquest correu ja existeix. Per favor, utilitza un altre correu o intenta iniciar sessió amb ell"
+            },
+            "emailNotFound": {
+                "title": "Correu inexistent",
+                "description": "No existeix cap usuari amb aquest correu"
+            },
+            "invalidPassword": {
+                "title": "Contrasenya incorrecte",
+                "description": "La contrasenya és incorrecte, torna-ho a intentar."
+            } 
+        }
+    }
+    
+}
